@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "nombre": "Mouse",
+      "descripcion": "Periferico dedicado para la navegacion del usuario en el computador",
+      "precio": 90,
+      "id": "ce68"
+    },
+    {
+      "nombre": "Teclado",
+      "descripcion": "Periferico dedicado para la insertacion del usuario al computador",
+      "precio": 100,
+      "id": "568b"
+    },
+    {
+      "nombre": "",
+      "descripcion": "",
+      "precio": 80,
+      "id": "b76a"
+    },
+    {
+      "id": "ca8a",
+      "nombre": "Computer",
+      "descripcion": "Computadora xd",
+      "precio": 45000
+    },
+    {
+      "id": "eccf",
+      "nombre": "",
+      "descripcion": "",
+      "precio": null
+    },
+    {
+      "id": "d131",
+      "nombre": "",
+      "descripcion": "",
+      "precio": null
+    },
+    {
+      "id": "d4ee",
+      "nombre": "",
+      "descripcion": "",
+      "precio": 0
+    },
+    {
+      "id": "831d",
+      "nombre": "lppp",
+      "descripcion": "eee",
+      "precio": 34
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<a [routerLink]="['/main']">GO HOME</a>
+
+<section>
+  <input type="text" placeholder="Nombre" #nombre required />
+  <input type="text" placeholder="Descripcion" #descripcion required />
+  <input
+    type="number"
+    placeholder="Precio"
+    min="0"
+    value="0"
+    #precio
+    required
+  />
+
+  <button
+    (click)="AddNewProduct(nombre.value, descripcion.value, precio.value)"
+  >
+    Insertar
+  </button>
+</section>

@@ -1,0 +1,5 @@
+<button [routerLink]="['/add']">Add product</button>
+{{ AllProducts.length }} :
+Productos registrados @for (product of AllProducts; track $index) {
+<app-producto [product]="product"></app-producto>
+}
